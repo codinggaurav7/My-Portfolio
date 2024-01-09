@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-- [Live Demo]()
+- [Live Demo](https://earnest-swan-a77e45.netlify.app/)
 
 
 # Getting Started
@@ -27,7 +27,10 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-
+- Clone this [repository](https://github.com/codinggaurav7/My-Portfolio) to your local machine 
+- ```
+  git clone git@github.com:codinggaurav7/My-Portfolio.git
+  ```
 
 - Navigate to `cd portfolio---react`  directory.
 
@@ -52,4 +55,3 @@
 # Show your support
 Give a ⭐ if you like this project!
 
-# My-Portfolio
