@@ -16,7 +16,7 @@ const Portfolio = () => {
       img: IMG1,
       description:
       'Online Food Ordering System- Foodi App which is based on MERN technology',
-      technologies: 'MongoDB| Express| React| NodeJS| Firebase Authentication',
+      
       link: 'https://complete-foodi-client-app.vercel.app/',
       github: 'https://github.com/codinggaurav7/complete-foodi-client-app',
     },
@@ -25,7 +25,7 @@ const Portfolio = () => {
       title: 'E-Commerce App',
       img: IMG2,
       description:
-        'E-Commerce Application ',
+        'E-Commerce Application | Both Admin and User Panel',
       technologies: 'MERN| Middlewares',
       link: 'https://sleepy-teal-cape.cyclic.app/',
       github: 'https://github.com/codinggaurav7/E-commerce',
@@ -34,7 +34,7 @@ const Portfolio = () => {
       id: 3,
       title: 'Portfolio',
       img: IMG3,
-      description: 'User friendly app to plan your day and manage tasks',
+      description: 'Personal Portfolio based On React',
       technologies: 'JavaScript | React',
       link: 'https://meri-mg.github.io/To-Do-List/dist/',
       github: 'https://github.com/Meri-MG/To-Do-List',
@@ -44,27 +44,28 @@ const Portfolio = () => {
       title: 'Weather Prediction App with Api Integration',
       img: IMG4,
       description:
-        'Fully responsive interactive website built based on Figma design',
-      technologies: 'JavaScript | CSS |API Integration',
+        'Weather App with Next.js 14, Tailwind CSS, and TypeScript and  7 Days Forecast',
+      technologies: 'JavaScript | Next.JS |API Integration',
       link: 'https://weather-app-nextjs-seven-rho.vercel.app/',
       github: 'https://github.com/codinggaurav7/Weather-App-using-API-Integration',
     },
-    {
-      id: 5,
-      title: 'Personality-Prediction-System-Using-CV-Analysis',
-      img: IMG5,
-      description:
-        'Personality Prediction System Using CV Analysis | Using Ocean Values and Big Five Personality Traits ',
-      technologies: 'ML | Python',
-      link: 'https://github.com/codinggaurav7/Personality-Prediction-Using-CV-Analysis',
-      github: 'https://github.com/codinggaurav7/Personality-Prediction-Using-CV-Analysis',
-    },
+
+{
+  id: 5,
+  title: 'Personality-Prediction-System-Using-CV-Analysis',
+  img: IMG5,
+  description:
+    'Personality Prediction System Using CV Analysis | Using Ocean Values and Big Five Personality Traits ',
+  technologies: 'ML | Python',
+  link: 'https://github.com/codinggaurav7/Personality-Prediction-Using-CV-Analysis',
+  github: 'https://github.com/codinggaurav7/Personality-Prediction-Using-CV-Analysis',
+},
     {
       id: 6,
       title: 'Fitness Gym Portal ',
       img: IMG6,
       description:
-        'Real-world group project which is still in progress and will provide educational platform for future young developers',
+        'Fitness Gym Portal | Fully Responsive Website',
       technologies: 'JavaScript | Css | HTML',
       link: 'https://gauravgymportal.netlify.app/',
       github: 'https://github.com/codinggaurav7/Fitness-Gym-Portal',
