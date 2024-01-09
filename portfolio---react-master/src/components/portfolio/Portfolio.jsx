@@ -36,8 +36,8 @@ const Portfolio = () => {
       img: IMG3,
       description: 'Personal Portfolio based On React',
       technologies: 'JavaScript | React',
-      link: 'https://meri-mg.github.io/To-Do-List/dist/',
-      github: 'https://github.com/Meri-MG/To-Do-List',
+      link: 'https://main--gleaming-crostata-34d0f8.netlify.app/',
+      github: 'https://github.com/codinggaurav7/My-Portfolio',
     },
     {
       id: 4,
